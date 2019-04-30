@@ -111,7 +111,7 @@ p { font-size: 1em; padding: 10px 3px;}
 .updates{ padding-bottom: 40px;}
 .updates a{color: var(--themecolor1); text-decoration: none;}
 .row { display: flex; flex-wrap: wrap; padding: 0 8px; justify-content: center}
-.column { flex: 25%; max-width: 24%; padding: 0 8px;}
+.column { flex: 25%; max-width: 23%; padding: 0 8px;}
 .item { margin-top: 16px; vertical-align: middle; min-height: 40px;  background: var(--themecolor2); padding: 5px;}
 .item a{color:var(--textcolor1);}
 .item a:hover{color:var(--textcolor1); text-decoration: underline;}
@@ -138,7 +138,7 @@ p { font-size: 1em; padding: 10px 3px;}
 /* footer */
 .footer { background: var(--themecolor1) url('../images/bg.png') repeat center; padding: 20px; overflow: auto; vertical-align: middle;}
 .left{display: inline-block; float: left;}
-.left img{ border: 0px solid var(--themecolor3);}
+.left img{ border: 0px solid var(--themecolor3); width: 60%; min-width: 180px; max-width: 240px;}
 .right{display: block; text-align: right; color: var(--textcolor1); float: right;}
 .right a{color: var(--textcolor1); text-decoration: none; font-style: Dosis;}
 .right p{font-size: 1.1em; font-weight: bold;}
