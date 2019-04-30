@@ -116,15 +116,15 @@ p { font-size: 1em; padding: 10px 3px;}
 .item a{color:var(--textcolor1);}
 .item a:hover{color:var(--textcolor1); text-decoration: underline;}
 @media (max-width: 900px) {
-  .column { flex: 33.3%; max-width: 32%;}
+  .column { flex: 33.3%; max-width: 30%;}
   .no-disp1 {display: none;}
 }
 @media (max-width: 600px) {
-  .column { flex: 50%; max-width: 48%;}
+  .column { flex: 50%; max-width: 45%;}
   .no-disp2 {display: none;}
 }
 @media (max-width: 450px) {
-  .column { flex: 100%; max-width: 98%;}
+  .column { flex: 100%; max-width: 96%;}
 }
 .video{margin: 4px;}
 .inline h4, .inline p{display:inline;}
