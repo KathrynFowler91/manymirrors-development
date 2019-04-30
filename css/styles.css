@@ -132,7 +132,7 @@ p { font-size: 1em; padding: 10px 3px;}
 .bg-black {background:var(--themecolor1); border: 1px solid var(--themecolor1);}
 
 .events{position: relative; overflow: hidden; margin: auto;}
-.fb-page{position: absolute; width:100% !important;}
+.fb-page{position: absolute; width:100% !important; background-color: var(--themecolor2);}
 
 
 /* footer */
