@@ -102,6 +102,7 @@ p { font-size: 1em; padding: 10px 3px;}
 
 
 /* about */
+.about {min-height: 40vh;}
 .about p{font-size: 1.2em;}
 .about a{ color: var(--themecolor1); text-decoration: none;}
 
@@ -130,7 +131,7 @@ p { font-size: 1em; padding: 10px 3px;}
 .caption{font-size: 0.85em; text-align: right;}
 .bg-black {background:var(--themecolor1); border: 1px solid var(--themecolor1);}
 
-.events{position: relative; overflow: hidden;}
+.events{position: relative; overflow: hidden; margin: auto;}
 /*.resp-events{position: absolute; top: 0; left: 0; right: 0; margin-left: auto; margin-right: auto; max-width: 500px; width: 100% !important; height: 120%; border: 0; left: 50%; transform: translateX(-50%);}*/
 
 
