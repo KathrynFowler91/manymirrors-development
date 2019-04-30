@@ -110,7 +110,7 @@ p { font-size: 1em; padding: 10px 3px;}
 /* updates */
 .updates{ padding-bottom: 40px;}
 .updates a{color: var(--themecolor1); text-decoration: none;}
-.row { display: flex; flex-wrap: wrap; padding: 0 6px; justify-content: center}
+.row { display: flex; flex-wrap: wrap; padding: 0 8px; justify-content: center}
 .column { flex: 25%; max-width: 24%; padding: 0 4px;}
 .item { margin-top: 12px; vertical-align: middle; min-height: 40px;  background: var(--themecolor2); padding: 5px;}
 .item a{color:var(--textcolor1);}
@@ -129,7 +129,7 @@ p { font-size: 1em; padding: 10px 3px;}
 .video{margin: 4px;}
 .inline h4, .inline p{display:inline;}
 .caption{font-size: 0.85em; text-align: right;}
-.bg-black {background:var(--themecolor1); border: 1px solid var(--themecolor1);}
+.bg-black {background:var(--themecolor1);}
 
 .events{position: relative; overflow: hidden; margin: auto;}
 .fb-page{position: absolute; width:100% !important; background-color: var(--themecolor2);}
